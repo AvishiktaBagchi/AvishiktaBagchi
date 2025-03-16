@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvishiktaBagchi
-- 👀 I’m interested in learning about cyber security and computing theory
-- 🌱 I’m currently learning object-oriented programming and automata theory 
+- 👀 I’m interested in learning about all things cyber security, web-dev, and computing theory!
+- 🌱 I’m currently learning about operating systems, network security, and web development.
 - 💞️ I’m looking to collaborate on web-dev and cybersecurity projects
 - 📫 How to reach me: EMAIL: avi.bagchi04@gmail.com
 
